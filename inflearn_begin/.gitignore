@@ -1,0 +1,6 @@
+__pyache__
+db.sqlite3
+/static
+/media
+venv
+.venv
